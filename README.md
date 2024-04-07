@@ -34,7 +34,7 @@ bash <(curl -Ls https://raw.githubusercontent.com/ipmartnetwork/v2ray/main/v2ray
 
 https://Github.com/ipmartnetwork
 <br>
-https://Xstack.ir
+https://ipmart.shop
 
 ## اهداف آینده
 
