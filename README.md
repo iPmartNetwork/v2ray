@@ -25,7 +25,7 @@ bash <(curl -Ls https://raw.githubusercontent.com/ipmartnetwork/v2ray/main/v2ray
 ## اسکرین شات 
 
 <div align="center">
-<img src="assets/README/v2ray-installer.png" width="600px" >
+<img src="v2ray-installer.png" width="600px" >
 </div>
 
 
