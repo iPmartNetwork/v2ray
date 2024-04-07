@@ -51,7 +51,7 @@ show_menu(){
     fgred=`echo "\033[31m"`
     printf "\n${menu}*********************************************${normal}\n"
     printf "${menu}*                                           *${normal}\n"
-    printf "${menu}*         iPmart NetWork      {menu}            *${normal}\n"
+    printf "${menu}*         iPmart NetWork                    *${normal}\n"
     printf "${menu}*                                           *${normal}\n"
     printf "${menu}*********************************************${normal}\n"
     printf "${menu}**${number} 0)${menu} Install the script requirements ${normal}\n"
